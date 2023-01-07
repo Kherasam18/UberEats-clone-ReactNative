@@ -1,0 +1,33 @@
+{
+  "name": "ubereats",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.1.1",
+    "@react-navigation/stack": "^6.3.10",
+    "expo": "~47.0.9",
+    "expo-status-bar": "~1.4.2",
+    "react": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-bouncy-checkbox": "^3.0.6",
+    "react-native-elements": "^3.4.3",
+    "react-native-gesture-handler": "^2.8.0",
+    "react-native-google-places-autocomplete": "^2.5.1",
+    "react-native-reanimated": "^2.13.0",
+    "react-native-vector-icons": "^9.2.0",
+    "react-redux": "^8.0.5",
+    "reanimated-bottom-sheet": "^1.0.0-alpha.22",
+    "redux": "^4.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
